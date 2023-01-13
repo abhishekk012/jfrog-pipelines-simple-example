@@ -8,7 +8,7 @@ resources:
       gitProvider: {{ .Values.myRepo.gitProvider }}
       path: {{ .Values.myRepo.path }}
       pin:
-        versionId: "68e98e: Update pipelines.yml"
+        versionId: 8
 #   - name: propertyBag
 #     type: PropertyBag
 #     configuration:
