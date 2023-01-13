@@ -8,7 +8,7 @@ resources:
       gitProvider: {{ .Values.myRepo.gitProvider }}
       path: {{ .Values.myRepo.path }}
       pin:
-        versionId: 1
+        versionId: 3
 #   - name: propertyBag
 #     type: PropertyBag
 #     configuration:
